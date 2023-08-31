@@ -19,7 +19,7 @@
 
 <h3 align="left">Get In Touch!</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/maryam-eid-1b7316259/" target="_blank">
+  <a href="www.linkedin.com/in/maryam-eid0" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="45" />
   </a> 
   <a href="https://www.facebook.com/profile.php?id=100092481888553&mibextid=zbwkwl" target="_blank">
