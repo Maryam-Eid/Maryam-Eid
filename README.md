@@ -9,7 +9,8 @@
 
 ---
 
-### Driven by curiosity, I'm on an endless journey through the backend realm  :) 
+<h3 align="left">Driven by curiosity, I'm on an endless journey through the backend realm  :)</h3>
+
 <br>
 
 - 🔭 I'm currently dedicated to expanding my knowledge and skills through focused learning.
@@ -19,8 +20,7 @@
 
 <br>
 
-
-### Get In Touch!
+<h3 align="left">Get In Touch!</h3>
 <p align="left">
   <a href="www.linkedin.com/in/maryam-eid0" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="45" />
