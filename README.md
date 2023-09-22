@@ -6,20 +6,21 @@
 
 ---
 
-<h3><a href="#">Driven by curiosity, I'm on an endless journey through the backend realm :)</a></h3>
+<h3><a href="#" style="text-decoration: none;">Driven by curiosity, I'm on an endless journey through the backend realm :)</a></h3>
 <br>
 
-<h4><a href="#"> - 🔭 I'm currently dedicated to expanding my knowledge and skills through focused learning.</a></h4>
-<h4><a href="#">- 🌱 Currently exploring PHP & Laravel, diving deep into backend development.</a></h4>
-<h4><a href="#">- 🤝 Open to collaborating on exciting backend projects. Let's create together!</a></h4>
-<h4><a href="#"> - 💬 Feel free to ask me about backend technologies, PHP, Laravel, or anything related to my ongoing learning journey!
+<h4><a href="#" style="text-decoration: none;" > - 🔭 I'm currently dedicated to expanding my knowledge and skills through focused learning.</a></h4>
+<h4><a href="#" style="text-decoration: none;">- 🌱 Currently exploring PHP & Laravel, diving deep into backend development.</a></h4>
+<h4><a href="#" style="text-decoration: none;">- 🤝 Open to collaborating on exciting backend projects. Let's create together!</a></h4>
+<h4><a href="#" style="text-decoration: none;"> - 💬 Feel free to ask me about backend technologies, PHP, Laravel, or anything related to my ongoing learning journey!
 
 <br>
 <br>
+<br>
 
 
 
-<h3 align="left">Get In Touch!</h3>
+<h3 align="left" style="text-decoration: none;">Get In Touch!</h3>
 <p align="left">
   <a href="www.linkedin.com/in/maryam-eid0" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="45" />
@@ -34,7 +35,7 @@
 
 <br>
 
-<h3 align="left"><a href="#">Languages & Tools:</a></h3>
+<h3 align="left"><a href="#" style="text-decoration: none;">Languages & Tools:</a></h3>
 <p align="left">
     <a href="https://www.php.net" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="45" height="45"/>
