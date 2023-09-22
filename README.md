@@ -1,6 +1,6 @@
 <div align="center">
   <a href="#">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=450&size=25&duration=6000&pause=1000&color=2B96C5&background=FFFFFF00&width=435&lines=Hello%2C+World!+I'm+Maryam+Eid" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=450&size=25&duration=6000&pause=1000&color=2B96C5&background=FFFFFF00&width=435&lines=Hello%2C+World!+I'm+Maryam+Eid" alt="Typing SVG"/>
   </a>
 </div>
 
@@ -25,6 +25,9 @@
   <a href="https://www.facebook.com/profile.php?id=100092481888553&mibextid=zbwkwl" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="45" />
   </a> &nbsp;
+  <a href="mailto:maryam79ah@gmail.com" target="_blank">
+  <img align="center" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png" alt="Email" height="35" width="35" />
+</a>
 </p>
 
 <br>
@@ -60,4 +63,3 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maryam-eid&layout=compact&theme=vision-friendly-dark&title_color=2B96C5&bg_color=141313)](https://github.com/anuraghazra/github-readme-stats)
-
