@@ -1,0 +1,10 @@
+.markdown-body h1:hover,
+.markdown-body h2:hover,
+.markdown-body h3:hover,
+.markdown-body h4:hover,
+.markdown-body h5:hover,
+.markdown-body h6:hover {
+  text-decoration: none;
+  color: inherit !important; 
+  cursor: default;
+}
