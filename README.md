@@ -1,26 +1,26 @@
+<link rel="stylesheet" type="text/css" href=".github/README.css">
+
+
 <div align="center">
   <a href="#">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=450&size=25&duration=6000&pause=1000&color=2B96C5&background=FFFFFF00&width=435&lines=Hello%2C+World!+I'm+Maryam+Eid" alt="Typing SVG"/>
   </a>
-</div>
+</div>  
 
 ---
 
-<h3><a href="#" style="text-decoration: none;">Driven by curiosity, I'm on an endless journey through the backend realm :)</a></h3>
+### Driven by curiosity, I'm on an endless journey through the backend realm  :) 
 <br>
 
-<h4><a href="#" style="text-decoration: none;" > - 🔭 I'm currently dedicated to expanding my knowledge and skills through focused learning.</a></h4>
-<h4><a href="#" style="text-decoration: none;">- 🌱 Currently exploring PHP & Laravel, diving deep into backend development.</a></h4>
-<h4><a href="#" style="text-decoration: none;">- 🤝 Open to collaborating on exciting backend projects. Let's create together!</a></h4>
-<h4><a href="#" style="text-decoration: none;"> - 💬 Feel free to ask me about backend technologies, PHP, Laravel, or anything related to my ongoing learning journey!
+- 🔭 I'm currently dedicated to expanding my knowledge and skills through focused learning.
+- 🌱 Currently exploring PHP & Laravel, diving deep into backend development.
+- 🤝 Open to collaborating on exciting backend projects. Let's create together!
+- 💬 Feel free to ask me about backend technologies, PHP, Laravel, or anything related to my ongoing learning journey!
 
 <br>
-<br>
-<br>
 
 
-
-<h3 align="left" style="text-decoration: none;">Get In Touch!</h3>
+### Get In Touch!
 <p align="left">
   <a href="www.linkedin.com/in/maryam-eid0" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="45" />
@@ -35,7 +35,8 @@
 
 <br>
 
-<h3 align="left"><a href="#" style="text-decoration: none;">Languages & Tools:</a></h3>
+
+<h3 align="left">Languages & Tools:</h3>
 <p align="left">
     <a href="https://www.php.net" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="45" height="45"/>
