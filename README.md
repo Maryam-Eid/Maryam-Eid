@@ -1,6 +1,3 @@
-<link rel="stylesheet" type="text/css" href=".github/README.css">
-
-
 <div align="center">
   <a href="#">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=450&size=25&duration=6000&pause=1000&color=2B96C5&background=FFFFFF00&width=435&lines=Hello%2C+World!+I'm+Maryam+Eid" alt="Typing SVG"/>
