@@ -25,9 +25,6 @@
   <a href="https://www.facebook.com/profile.php?id=100092481888553&mibextid=zbwkwl" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="45" />
   </a> &nbsp;
-  <a href="mailto:maryam79ah@gmail.com" target="_blank">
-  <img align="center" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png" alt="Email" height="35" width="35" />
-</a>
 </p>
 
 <br>
