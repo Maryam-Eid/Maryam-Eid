@@ -20,6 +20,7 @@
 
 ###
 
+<h3 align="center">Tech Stack & Tools</h3>
 
 <div align="center">
   <!-- Backend -->
